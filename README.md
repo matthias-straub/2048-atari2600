@@ -1,4 +1,4 @@
-- Playing 2048 like it's 1977 -
+== Playing 2048 like it's 1977 ==
 
 Reenactment of the beautiful "2048" game by Gabriele Cirulli (https://en.wikipedia.org/wiki/2048_(video_game))
 
